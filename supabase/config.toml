@@ -1,0 +1,4 @@
+project_id = "qdjigxywqkkpjgsypddl"
+
+[functions.studybot-chat]
+verify_jwt = false
